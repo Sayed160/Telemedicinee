@@ -1,4 +1,5 @@
-Welcome to the telemedicine website
+Welcome to the Telemedicine website.
+TeleHealth Bangladesh is driven by a deep understanding of the significant healthcare obstacles that the Bangladeshi people must overcome. The goal of this project is to use cutting-edge technology to improve medical services, remove obstacles to healthcare access, and improve population well-being in general. 
 
 ![homepage](https://github.com/user-attachments/assets/1f206f47-9e99-472a-bc88-803af1b27208)
 
